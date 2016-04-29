@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SleepTracker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="stop">Stop sleep tracking</string>
+    <string name="start">Start sleep tracking</string>
+    <string name="reset">Reset sleep data</string>
+    <string name="Show">Show sleep data</string>
+    <string name="action_settings">Settings</string>
+</resources>
